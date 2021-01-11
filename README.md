@@ -1,0 +1,1 @@
+# Truffle Base Template
